@@ -1,0 +1,15 @@
+
+# I like to play video games
+print ("July 16, 2024")
+print ("Hi Chass,")
+print ("We're really gonna do it this time. We're feeling really defeated at work right now,")
+print ("but we are going to practice this everyday")
+print ("and get better until we're good enough to work somewhere else. ♥")
+print ("love,")
+print ("CCCCC    BBBBBB") 
+print ("C        B    B")
+print ("C        B    B")
+print ("C        BBBBBB")
+print ("C        B    B")
+print ("C        B    B")
+print ("CCCCC    BBBBBB")
